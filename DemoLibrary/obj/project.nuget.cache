@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LfTD0j2JgM79Ku86LDV97N8hLXgghj5Es4LBUK3goW27vu5D1opZCW/EKmOK86iXZp/7phA7Kv5b9R/I8yx1sA==",
+  "success": true,
+  "projectFilePath": "E:\\servers\\AutofacFirst\\DemoLibrary\\DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Happy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

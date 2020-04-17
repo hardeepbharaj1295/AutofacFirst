@@ -1,0 +1,17 @@
+E:\servers\AutofacFirst\AutofacFirst\bin\Debug\netcoreapp3.1\AutofacFirst.exe
+E:\servers\AutofacFirst\AutofacFirst\bin\Debug\netcoreapp3.1\AutofacFirst.deps.json
+E:\servers\AutofacFirst\AutofacFirst\bin\Debug\netcoreapp3.1\AutofacFirst.runtimeconfig.json
+E:\servers\AutofacFirst\AutofacFirst\bin\Debug\netcoreapp3.1\AutofacFirst.runtimeconfig.dev.json
+E:\servers\AutofacFirst\AutofacFirst\bin\Debug\netcoreapp3.1\AutofacFirst.dll
+E:\servers\AutofacFirst\AutofacFirst\bin\Debug\netcoreapp3.1\AutofacFirst.pdb
+E:\servers\AutofacFirst\AutofacFirst\bin\Debug\netcoreapp3.1\DemoLibrary.dll
+E:\servers\AutofacFirst\AutofacFirst\bin\Debug\netcoreapp3.1\DemoLibrary.pdb
+E:\servers\AutofacFirst\AutofacFirst\obj\Debug\netcoreapp3.1\AutofacFirst.csprojAssemblyReference.cache
+E:\servers\AutofacFirst\AutofacFirst\obj\Debug\netcoreapp3.1\AutofacFirst.AssemblyInfoInputs.cache
+E:\servers\AutofacFirst\AutofacFirst\obj\Debug\netcoreapp3.1\AutofacFirst.AssemblyInfo.cs
+E:\servers\AutofacFirst\AutofacFirst\obj\Debug\netcoreapp3.1\AutofacFirst.csproj.CopyComplete
+E:\servers\AutofacFirst\AutofacFirst\obj\Debug\netcoreapp3.1\AutofacFirst.dll
+E:\servers\AutofacFirst\AutofacFirst\obj\Debug\netcoreapp3.1\AutofacFirst.pdb
+E:\servers\AutofacFirst\AutofacFirst\obj\Debug\netcoreapp3.1\AutofacFirst.genruntimeconfig.cache
+E:\servers\AutofacFirst\AutofacFirst\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\servers\AutofacFirst\AutofacFirst\obj\Debug\netcoreapp3.1\AutofacFirst.csproj.CoreCompileInputs.cache

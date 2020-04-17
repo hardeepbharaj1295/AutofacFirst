@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/IB4QSwU7hewkAvTqOHwj12wqNQk4xs5SUY58SQXvgwG7VY5lAPcy7JOpUOs6BWSWlmkkt4+smajPFyj+MwGPQ==",
+  "success": true,
+  "projectFilePath": "E:\\servers\\AutofacFirst\\AutofacFirst\\AutofacFirst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Happy\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
